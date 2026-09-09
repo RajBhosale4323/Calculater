@@ -1,0 +1,11 @@
+.calculator {
+  border: 10px solid black;
+  width: 400px;
+  height: 850px;
+  border-radius: 70px;
+  background-color: black;
+  opacity: 90%;
+}
+.calculator {
+  cursor: no-drop;
+}
