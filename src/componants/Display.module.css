@@ -1,0 +1,12 @@
+.display {
+  margin: 20px 40px 60px 30px;
+  width: 80%;
+  height: 80px;
+  font-size: 45px;
+  border: transparent;
+  background-color: black;
+  color: white;
+}
+.display:hover {
+  cursor: not-allowed;
+}
